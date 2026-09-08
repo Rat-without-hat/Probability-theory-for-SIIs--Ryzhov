@@ -2,4 +2,4 @@
 
 ## [Домашние задания по практикам](hometasks/README.md)
 
-## [Задачи продвинутого уровня для Github](advanced_tasks)
+## [Задачи продвинутого уровня для Github](advanced_tasks/README.md)
